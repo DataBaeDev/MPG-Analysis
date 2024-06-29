@@ -8,7 +8,7 @@ The purpose of this analysis is to determine whether a vehicle's attributes (suc
 *  [Model Testing Python Notebook](https://github.com/DataBaeDev/MPG-Analysis/blob/main/MPG_Analysis_Model_Testing.ipynb)
     * Tests the Selected Models using randomly generated values
 * The Final Models (.pkl files)
-    * Linear Regression Model
-    * Decision Tree Regressor Model
-    * Random Forest Regressor Model
-    * XGB Regressor Model
+    * [Linear Regression Model](https://github.com/DataBaeDev/MPG-Analysis/blob/main/Linear_Regression_Model_.pkl)
+    * [Decision Tree Regressor Model](https://github.com/DataBaeDev/MPG-Analysis/blob/main/Decision_Tree_Model_.pkl)
+    * [Random Forest Regressor Model](https://github.com/DataBaeDev/MPG-Analysis/blob/main/Random_Forest_Model_.pkl)
+    * [XGB Regressor Model](https://github.com/DataBaeDev/MPG-Analysis/blob/main/XGB_Regressor_Model_.pkl)
